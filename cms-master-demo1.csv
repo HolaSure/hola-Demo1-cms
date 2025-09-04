@@ -17,22 +17,22 @@ DEMO_BULLET_3_ES,Derivación a firma/visado si aplica
 CALENDLY_CARD_TITLE,Agende una demostración
 CALENDLY_CARD_COPY,Muestre a su equipo cómo funciona en tiempo real.
 CALENDLY_FALLBACK_CTA_ES,Ver demostración
-PILOT_TITLE_ES,Pruébelo. Compruébelo. Escálelo.
-PILOT_SUBTITLE_ES,"Piloto 4 semanas, resultados reales."
+PILOT_TITLE_ES,Pruebas. Comprobado. Escalado.
+PILOT_SUBTITLE_ES,Piloto 4 semanas; resultados reales.
 PILOT_DURATION_ES,4 semanas
 PILOT_PRICE_DISPLAY,$10K
 PILOT_RIBBON_TEXT,OFERTA LIMITADA
 TRUST_BULLET_1,Cumplimiento normativo garantizado
 TRUST_BULLET_2,Integración rápida en WhatsApp
-TRUST_BULLET_3,Validado por expertos en seguros
+TRUST_BULLET_3,Velocidad por expertos en seguros
 TRUST_BULLET_4,Seguro y escalable
 TRUST_BULLET_5,Soporte dedicado en LATAM
 TEAM_CARLOS_WA_B64,NTA2NjA0Mjk3OTY=
-TEAM_JORGE_WA_B64,NTE5NzA2MDY5ODk=
-WA_DEFAULT_MESSAGE,"Hola, quiero más información."
-TEAM_CTA_LABEL_ES,Iniciar conversación
-FOOTER_LEGAL_ES,© 2025 HolaSure. Todos los derechos reservados.
-COOKIE_TEXT_ES,Usamos cookies para mejorar la experiencia.
+TEAM_JORGE_WA_B64,NTE2NjA0Mjk3OTY=
+WA_DEFAULT_MESSAGE,Hola, quiero información.
+TEAM_CTA_LABEL_ES,WA
+FOOTER_LEGAL_ES,© 2024 HolaSure. Todos los derechos reservados.
+COOKIE_TEXT_ES,Usamos cookies para mejorar tu experiencia
 COOKIE_ACCEPT_ES,Aceptar
 COOKIE_DECLINE_ES,Rechazar
 HERO_KPI1_VALUE_ES,20
@@ -40,3 +40,31 @@ HERO_KPI2_VALUE_ES,100%
 TRUST_SECTION_TITLE_ES,Confianza y seguridad
 TEAM_SECTION_TITLE_ES,Equipo dedicado — Carlos & Jorge Hernández
 FAQ_SECTION_TITLE_ES,Preguntas frecuentes
+VIDEO_LOADING_ES,Cargando demo...
+VIDEO_FALLBACK_ES,Tu navegador no soporta video HTML5. <a href="./assets/videos/demo.mp4">Descargar video</a>
+CALENDLY_TITLE_ES,Reduzca la pre-aprobación de pólizas de 2 semanas a 20 minutos
+CALENDLY_SUBTITLE_ES,Agende una llamada de 20 minutos con nuestro equipo especializado
+CALENDLY_PLACEHOLDER_TITLE_ES,Agende una demostración
+CALENDLY_PLACEHOLDER_DESC_ES,Muestre a su equipo cómo funciona en tiempo real.
+CALENDLY_PLACEHOLDER_STATUS_ES,Ver demostración
+PILOT_WEEK_1_ES,Semana 1: Configuración inicial y capacitación
+PILOT_WEEK_2_ES,Semana 2: Validación de cumplimiento y flujos internos
+PILOT_WEEK_3_ES,Semana 3: Ejecución de prueba con resultados medibles
+PILOT_WEEK_4_ES,Semana 4: Evaluación final y decisión de escalado
+TRUST_TITLE_ES,Confianza y seguridad
+TRUST_SECURITY_ES,Seguridad grado bancario
+TRUST_COMPLIANCE_ES,Cumplimiento primero
+TRUST_WHATSAPP_ES,WhatsApp nativo
+TRUST_API_ES,API listo
+TEAM_TITLE_ES,Equipo dedicado — Carlos & Jorge Hernández
+TEAM_CARLOS_NAME_ES,Carlos Hernández — Centroamérica + Colombia
+TEAM_JORGE_NAME_ES,Jorge Hernández — Perú + Ecuador
+FAQ_TITLE_ES,Preguntas frecuentes
+FAQ_Q1_ES,¿Cómo garantizan el cumplimiento regulatorio?
+FAQ_A1_ES,Nuestro sistema está diseñado con cumplimiento regulatorio como prioridad desde el primer día. Trabajamos con marcos legales específicos de cada país y mantenemos auditorías continuas para garantizar el 100% de conformidad.
+FAQ_Q2_ES,¿Qué pasa si el piloto no funciona?
+FAQ_A2_ES,Ofrecemos una garantía completa en nuestro programa piloto. Si no alcanzamos los resultados prometidos en las 4 semanas reembolsamos el 100% de la inversión sin preguntas.
+FAQ_Q3_ES,¿Se integra con nuestros sistemas actuales?
+FAQ_A3_ES,Sí nuestro sistema se integra perfectamente con las principales plataformas de seguros a través de APIs estándar. El proceso de integración toma típicamente 2-3 días durante la primera semana del piloto.
+FINAL_TITLE_ES,¿Listo para transformar su distribución?
+FINAL_SUBTITLE_ES,Hable con Carlos o Jorge hoy. Piloto en 4 semanas.
